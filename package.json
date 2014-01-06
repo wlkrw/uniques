@@ -1,0 +1,10 @@
+{
+  "name": "foo",
+  "description": "cool node / redis app",
+  "version": "0.0.1",
+  "dependencies": {
+    "redis": "0.10.0",
+    "express": "3.4.7",
+    "crypto-js": "*" 
+  }
+}
